@@ -1,1 +1,38 @@
-/*  your css code here. If applicable */
+/* /*  your css code here. If applicable */
+body{
+	background-color: rgb(204, 204, 204);
+}
+h1, h2, h3{
+	text-align:center;
+}
+ul{
+	background-color:white;
+	border:1px solid black;
+	border-radius:5px;
+	margin:10px;
+	padding: 10px;
+}
+li{
+	list-style-type:none;
+}
+
+a{
+	text-decoration-line:none;
+}
+div{
+	background-color: rgb(255, 255, 255);
+	padding:10px;
+	margin:10px;
+	border-radius:5px;
+	align-content:center;
+	text-align:center
+}
+
+
+
+
+
+
+
+
+ */
