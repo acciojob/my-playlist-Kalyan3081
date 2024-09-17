@@ -16,7 +16,7 @@ body {
         text-decoration-line: none;
       }
 
-      .mediaContainer {
+      .player_one {
         display: flex;
         flex-direction: column;
         align-items: center;
@@ -28,7 +28,7 @@ body {
         border-radius: 10px;
       }
 
-      .mediaContainer video,
-      .mediaContainer audio {
+      video,
+      audio {
         width: 100%;
       }
