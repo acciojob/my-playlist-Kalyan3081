@@ -24,11 +24,14 @@ body {
         border: 2px solid black;
         /* height: auto;
 			width: 75%; */
-        padding: 20px;
+        padding: 10px;
         border-radius: 10px;
       }
 
       video,
       audio {
-        width: 100%;
+        width: 80vw;
+
+
+		  
       }
